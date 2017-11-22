@@ -1,0 +1,57 @@
+/*global*/
+container{
+  padding:25px;
+}
+/*header*/
+header{
+
+  background:
+  color: #555;
+  padding:30px;
+  min-height: 70px;
+  border-top: black 3px solid;
+  border-bottom: black 3px solid;
+  margin: 0;
+}
+nav ul{
+width: auto;
+float: left;
+margin: -5px;
+padding: 0px;
+}
+nav ul li{
+  list-style-type: none;
+  float: left;
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+  margin: 10 15 10 0;
+}
+/*body*/
+body{
+  backgroud;
+  font-family: arial;
+  margin: 0;
+  max-width:
+}
+#Concept{
+  float: left;
+}
+#rainbowecho{
+  float:left;
+  font-family: cursive;
+  text-align: center;
+  margin-top: 60px;
+}
+#sendemail{
+  float: right;
+
+}
+footer{
+padding: 20px;
+/*margin-top: 500px;*/
+}
+aside#rainbowecho{
+  float: right;
+  width: 30%;
+}
